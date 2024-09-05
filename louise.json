@@ -6,7 +6,6 @@
       {
         "id": "TAC-001",
         "name": "Louise Attaque (1997)",
-        "description": "Tactiques basées sur les chansons de l'album Louise Attaque (1997).",
         "techniques": [
           {
             "id": "TECH-001",
@@ -38,7 +37,6 @@
       {
         "id": "TAC-002",
         "name": "Comme on a dit (2000)",
-        "description": "Tactiques basées sur les chansons de l'album Comme on a dit (2000).",
         "techniques": [
           {
             "id": "TECH-006",
@@ -70,7 +68,6 @@
       {
         "id": "TAC-003",
         "name": "A plus tard crocodile (2005)",
-        "description": "Tactiques basées sur les chansons de l'album A plus tard crocodile (2005).",
         "techniques": [
           {
             "id": "TECH-011",
@@ -102,7 +99,6 @@
       {
         "id": "TAC-004",
         "name": "Anomalie (2016)",
-        "description": "Tactiques basées sur les chansons de l'album Anomalie (2016).",
         "techniques": [
           {
             "id": "TECH-016",
@@ -134,7 +130,6 @@
       {
         "id": "TAC-005",
         "name": "Planète Terre (2022)",
-        "description": "Tactiques basées sur les chansons de l'album Planète Terre (2022).",
         "techniques": [
           {
             "id": "TECH-021",
