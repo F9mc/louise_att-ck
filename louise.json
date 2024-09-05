@@ -1,0 +1,168 @@
+{
+  "framework": {
+    "name": "Louise Attaque Framework",
+    "version": "1.0",
+    "tactics": [
+      {
+        "id": "TAC-001",
+        "name": "Louise Attaque (1997)",
+        "description": "Tactiques basées sur les chansons de l'album Louise Attaque (1997).",
+        "techniques": [
+          {
+            "id": "TECH-001",
+            "name": "J't'emmène au vent",
+            "description": "Déplacement rapide pour éviter les obstacles."
+          },
+          {
+            "id": "TECH-002",
+            "name": "Ton invitation",
+            "description": "Invitation à des activités sociales pour collecter des informations."
+          },
+          {
+            "id": "TECH-003",
+            "name": "Léa",
+            "description": "Manipulation émotionnelle pour obtenir des renseignements."
+          },
+          {
+            "id": "TECH-004",
+            "name": "Les nuits parisiennes",
+            "description": "Profiter de l'obscurité pour dissimuler les actions."
+          },
+          {
+            "id": "TECH-005",
+            "name": "La brune",
+            "description": "Déguisement pour passer inaperçu."
+          }
+        ]
+      },
+      {
+        "id": "TAC-002",
+        "name": "Comme on a dit (2000)",
+        "description": "Tactiques basées sur les chansons de l'album Comme on a dit (2000).",
+        "techniques": [
+          {
+            "id": "TECH-006",
+            "name": "Comme on a dit",
+            "description": "Suivre un plan établi pour atteindre un objectif."
+          },
+          {
+            "id": "TECH-007",
+            "name": "Les sois beaux",
+            "description": "Charmer l'ennemi pour obtenir un accès."
+          },
+          {
+            "id": "TECH-008",
+            "name": "Du nord au sud",
+            "description": "Mobilité et adaptation en fonction des régions."
+          },
+          {
+            "id": "TECH-009",
+            "name": "Savoir",
+            "description": "Collecte d'informations avant l'exécution."
+          },
+          {
+            "id": "TECH-010",
+            "name": "La plume",
+            "description": "Utilisation de la communication écrite pour diffuser un message."
+          }
+        ]
+      },
+      {
+        "id": "TAC-003",
+        "name": "A plus tard crocodile (2005)",
+        "description": "Tactiques basées sur les chansons de l'album A plus tard crocodile (2005).",
+        "techniques": [
+          {
+            "id": "TECH-011",
+            "name": "Si c'était hier",
+            "description": "Exploitation des vulnérabilités historiques."
+          },
+          {
+            "id": "TECH-012",
+            "name": "La cravate",
+            "description": "Utilisation de l'apparence pour tromper l'ennemi."
+          },
+          {
+            "id": "TECH-013",
+            "name": "Est-ce que tu m'aimes encore ?",
+            "description": "Doubler les relations pour obtenir un avantage."
+          },
+          {
+            "id": "TECH-014",
+            "name": "Voir du pays",
+            "description": "Évasion ou mouvement entre différents territoires pour éviter la détection."
+          },
+          {
+            "id": "TECH-015",
+            "name": "Ca m'agace",
+            "description": "Provoquer des distractions pour faire diversion."
+          }
+        ]
+      },
+      {
+        "id": "TAC-004",
+        "name": "Anomalie (2016)",
+        "description": "Tactiques basées sur les chansons de l'album Anomalie (2016).",
+        "techniques": [
+          {
+            "id": "TECH-016",
+            "name": "Anomalie",
+            "description": "Exploitation des failles et des erreurs pour pénétrer un système."
+          },
+          {
+            "id": "TECH-017",
+            "name": "Du grand banditisme",
+            "description": "Organisation de grands coups pour perturber les opérations ennemies."
+          },
+          {
+            "id": "TECH-018",
+            "name": "L'insouciance",
+            "description": "Utilisation de la négligence de l'adversaire à son avantage."
+          },
+          {
+            "id": "TECH-019",
+            "name": "Avec le temps",
+            "description": "Planification d'attaques sur le long terme."
+          },
+          {
+            "id": "TECH-020",
+            "name": "Depuis toujours",
+            "description": "Exploitation de méthodes éprouvées pour assurer le succès."
+          }
+        ]
+      },
+      {
+        "id": "TAC-005",
+        "name": "Planète Terre (2022)",
+        "description": "Tactiques basées sur les chansons de l'album Planète Terre (2022).",
+        "techniques": [
+          {
+            "id": "TECH-021",
+            "name": "Planète Terre",
+            "description": "Coordination d'opérations globales à grande échelle."
+          },
+          {
+            "id": "TECH-022",
+            "name": "Sortir de l’ordinaire",
+            "description": "Attaques innovantes et imprévisibles."
+          },
+          {
+            "id": "TECH-023",
+            "name": "Vous deux",
+            "description": "Collaboration pour des opérations synchronisées."
+          },
+          {
+            "id": "TECH-024",
+            "name": "La frousse",
+            "description": "Semer la peur pour désorganiser l'adversaire."
+          },
+          {
+            "id": "TECH-025",
+            "name": "On s'fait la gueule",
+            "description": "Créer des divisions au sein de l'ennemi pour affaiblir sa défense."
+          }
+        ]
+      }
+    ]
+  }
+}
