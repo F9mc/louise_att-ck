@@ -5,7 +5,7 @@
     "tactics": [
       {
         "id": "TAC-001",
-        "name": "Louise Attaque (1997)",
+        "name": "Louise Attaque",
         "techniques": [
           {
             "id": "TECH-001",
@@ -36,7 +36,7 @@
       },
       {
         "id": "TAC-002",
-        "name": "Comme on a dit (2000)",
+        "name": "Comme on a dit",
         "techniques": [
           {
             "id": "TECH-006",
@@ -67,7 +67,7 @@
       },
       {
         "id": "TAC-003",
-        "name": "A plus tard crocodile (2005)",
+        "name": "A plus tard crocodile",
         "techniques": [
           {
             "id": "TECH-011",
@@ -98,7 +98,7 @@
       },
       {
         "id": "TAC-004",
-        "name": "Anomalie (2016)",
+        "name": "Anomalie",
         "techniques": [
           {
             "id": "TECH-016",
@@ -129,7 +129,7 @@
       },
       {
         "id": "TAC-005",
-        "name": "Planète Terre (2022)",
+        "name": "Planète Terre",
         "techniques": [
           {
             "id": "TECH-021",
